@@ -1,0 +1,4 @@
+approach,val_accuracy
+CNN from scratch,0.1348000019788742
+Transfer learning (frozen base),0.14139999449253082
+Transfer learning (fine-tuned),0.10000000149011612
