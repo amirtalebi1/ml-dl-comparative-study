@@ -26,7 +26,7 @@ For each data type, training data is split into three nested, stratified subsets
 **medium**, **large** — while validation and test sets stay fixed across every experiment. This
 makes "performance vs. training set size" a controlled, fair comparison.
 
-## Notebooks (run in order)
+## Notebooks
 
 | # | Notebook | What it does |
 |---|---|---|
