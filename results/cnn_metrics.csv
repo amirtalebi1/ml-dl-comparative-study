@@ -1,0 +1,4 @@
+model,dataset_size_name,n_train,val_accuracy,train_time_sec,n_epochs_ran
+CNN_from_scratch,small,1000,0.1348000019788742,13.807727575302124,11
+CNN_from_scratch,medium,10000,0.5148000121116638,76.34797739982605,17
+CNN_from_scratch,large,45000,0.6625999808311462,410.64525985717773,24
