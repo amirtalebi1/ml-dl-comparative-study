@@ -55,6 +55,6 @@ makes "performance vs. training set size" a controlled, fair comparison.
 
 ## Results
 
-See `results/` for saved metrics (`.csv`) and figures (`.png`), and `report.md` for the
+See `results/` for saved metrics (`.csv`) and figures (`.png`), and `project-report.pdf` for the
 full write-up and discussion.
 
